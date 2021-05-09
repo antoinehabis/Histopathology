@@ -1,0 +1,3 @@
+Key: #00aa00                                   Mask_Color: [254]
+Key: #F4FA58                                   Mask_Color: [255]
+Key: #aa0000                                   Mask_Color: [253]

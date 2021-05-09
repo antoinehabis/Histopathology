@@ -1,0 +1,15 @@
+name: SlideSeg
+channels:
+- defaults
+dependencies:
+- python=2.7
+- pip=9.0.1
+- setuptools
+- pip:
+  - numpy
+  - olefile
+  - pillow
+  - tqdm
+  - openslide-python
+  - opencv-python
+  - pexif
